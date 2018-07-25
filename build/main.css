@@ -44775,9 +44775,9 @@ page-core-login-forgotten-password .content {
 }
 
 page-core-login-init .scroll-content {
-  background-color: #ff5c00;
+  background-color: #ffffff;
   /* Change this to add a bg image or change color */
-  background: radial-gradient(#ff7600, #ff5c00);
+  background: radial-gradient(#ffffff, #ffffff);
   background-repeat: no-repeat;
   background-position: center center;
 }
